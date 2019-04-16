@@ -83,7 +83,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Iqra Urooj](https://twitter.com)||[YouTube](https://youtu.be/1mGtZw9Ar1k)|SpriteKit, AVFoundation|Submitted|
 |[Isaac Rodriguez](https://koide.top/)||[Youtube](https://www.youtube.com/watch?v=S8P0UGW_RBw)|UIKit, AVFoundation|Accepted|
 |[Jacky Yu](https://twitter.com/HachimanCaptain)|[GitHub](https://github.com/CaptainYukinoshitaHachiman/Cryptography-and-Privacy)|[YouTube](https://youtu.be/nsK-6ZIX3pQ)<br>[bilibili](https://www.bilibili.com/video/av47867965/)|UIKit, Security, CommonCrypto|Submitted|
-|[Jahanzeb Jabbar](https://twitter.com/Jahanzeb_me4u)|[GitHub](https://github.com/jahanzeb-j/CodeWorld)|[YouTube](https://youtu.be/9WfrwX6ebVI)|SpriteKit, GameplayKit, CoreMotion, AVFoundation|Submitted|
+|[Jahanzeb Jabbar](https://twitter.com/Jahanzeb_me4u)|[GitHub](https://github.com/jahanzeb-j/CodeWorld)|[YouTube](https://youtu.be/9WfrwX6ebVI)|SpriteKit, GameplayKit, CoreMotion, AVFoundation|Rejected|
 |jamfly|[GitHub](https://github.com/jamfly/WWDC-2019)||CoreML, NaturalLanguage, ImageIO, Vision|Submitted|
 |[Jiaqi Liu](https://twitter.com/tuzi_moe)|||SpriteKit, ARKit, UIKit, CoreML|Submitted|
 |[John Ciocca](https://www.twitter.com/JohnCiocca)|||UIKit, SpriteKit, CoreML, AVFoundation|Submitted|
